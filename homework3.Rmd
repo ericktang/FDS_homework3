@@ -1,0 +1,20 @@
+---
+title: "Homework 3"
+author: "Eric Tang"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\subsection*{GitHub}
+\begin{enumerate}
+    \item The purpose of Git is 
+    \item this is test 2
+    \end{enumerate}
+
+\subsection*{R Basics}
+\begin{enumerate}
+    \item 
